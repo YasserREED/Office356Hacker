@@ -122,7 +122,7 @@ attacker@Machine$ python3 app.py
 
 #### `Victim Side`
 
-![image](https://github.com/user-attachments/assets/9e9a1674-16d8-43e6-a0f4-394c0a5e5309)
+![image](https://github.com/user-attachments/assets/31e1abd2-33b8-4d42-af56-41f05eb4b8fa)
 
 `Then Redirect to https://outlook.office.com`
 
