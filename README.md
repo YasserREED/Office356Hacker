@@ -1,5 +1,5 @@
 
-# Office356Hacker
+# Office365Hacker
 **Illicit Consent Phishing Attack Tool:** This repository hosts a tool for simulating a phishing attack where a user is tricked into granting permissions to an attacker’s Azure app. Once permissions are granted, the attacker gains access to sensitive data, such as emails, files in OneDrive, and can send emails on behalf of the user.
 
 - This attack workflow demonstrates how attackers can leverage a legitimate Microsoft login page to gain user consent, leading to unauthorized access to user data within an organization.
