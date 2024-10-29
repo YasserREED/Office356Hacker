@@ -12,6 +12,15 @@
 ![](https://img.shields.io/badge/Twitter-%20YasserREED-blue)
 ![](https://img.shields.io/badge/YouTube-%20YasserRED-red)
 
+
+## Disclaimer
+
+**Office365Hacker** is a security research tool intended strictly for educational, ethical research, and legal penetration testing purposes. This repository simulates phishing scenarios to raise awareness about security vulnerabilities within Office 365 and improve defensive measures. **It is not intended for, nor should it be used in, any malicious or unauthorized activity.**
+
+Using these tools without explicit permission from the target system's owner is illegal, unethical, and can result in serious legal consequences. The authors and contributors of **Office365Hacker** assume no liability or responsibility for any misuse, damage, or harm caused by unauthorized use of this code or techniques. Please ensure all actions comply with local laws, regulations, and ethical standards.
+
+By using **Office365Hacker**, you agree to use it responsibly, for approved security research, and in accordance with all applicable laws and ethical guidelines. 
+
 ## Phishing Attack Flow and Tool Usage
 
 ### Setup
